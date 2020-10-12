@@ -1,6 +1,6 @@
 # moeda_conversor
 
-App that converts currencies between R$, EUR and BTN
+App that converts currencies between R$, Dolar, EUR and BTN
 
 ## Getting Started
 
@@ -15,4 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # -MOBILE-Coin_Conversor
-# -MOBILE-Coin_Conversor
+
+<img src="https://i.ibb.co/R0prQKt/conversor-1.png" width="350" title="hover text">
+<img src="https://i.ibb.co/rw1wbrh/conversor-2.png" width="350" title="hover text">
